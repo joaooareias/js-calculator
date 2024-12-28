@@ -1,7 +1,7 @@
 # Calculator App with JavaScript, HTML and CSS
 
-![calculator app](./assets/Calculator-js.png)
+<img src="./assets/Calculator-js.png" alt="drawing" width="168"/>
 
-![calculator app](./assets/Calculator-js2.png)
+<img src="./assets/Calculator-js2.png" alt="drawing" width="150"/>
 
-![calculator app](./assets/Calculator-js3.png)
+<img src="./assets/Calculator-js3.png" alt="drawing" width="152"/>
